@@ -1,4 +1,6 @@
-# Docker Lambda Container with Customs Node Runtime
+# Lambda Nodejs Container with Custom Python Runtime
+
+A repository for an article on [codewithyou.com](https://www.codewithyou.com/blog/docker-lambda-node-with-python)
 
 ## Why do we need a custom lambda runtime?
 
